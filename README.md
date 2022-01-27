@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Amine
-- 👀 I’m interested in Machine Learning, DevOps/MLOps, Python, and Web Development
-- 🌱 I’m also very passionate about containerization and orchestration technologies: Docker and Kubernetes
-- ✨ Currently, I'm taking a deep dive into cloud technologies
-- 💞️ I’m looking to collaborate on projects related to Machine Learning, DevOps, and backend Python development etc..
+- Machine Learning, DevOps/MLOps, and Python developer
+- Super passionate about containerization and orchestration technologies as well as cloud technologies and frameworks
 
 <!---
 Aminkta/Aminkta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
