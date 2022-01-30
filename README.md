@@ -1,5 +1,5 @@
 - Machine Learning, DevOps/MLOps, and Python developer
-- Super passionate about containerization and orchestration technologies as well as cloud technologies and frameworks
+- Super passionate about containerization and orchestration technologies as well as cloud technologies and serverless frameworks
 
 <!---
 Aminkta/Aminkta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
