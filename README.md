@@ -1,5 +1,8 @@
+
+```bash
 All things Machine Learning, DevOps, MLOps, cloud, and serverless frameworks.
-Containerization and orchestration technologies expert ( <-- I think)
+Containerization and orchestration technologies expert
+```
 
 <!---
 Aminkta/Aminkta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
