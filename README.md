@@ -1,5 +1,5 @@
-Machine Learning, DevOps/MLOps, and Python developer<br />
-Super involved in containerization and orchestration technologies as well as cloud technologies and serverless frameworks
+All things Machine Learning, DevOps, MLOps, cloud, and serverless frameworks.
+Containerization and orchestration technologies expert ( <-- I think)
 
 <!---
 Aminkta/Aminkta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
