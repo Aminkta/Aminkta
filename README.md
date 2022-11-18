@@ -1,6 +1,6 @@
 
 ```bash
-All things Machine Learning, DevOps, MLOps, cloud, and serverless frameworks.
+All things Machine Learning, DevOps, MLOps, cloud, and serverless.
 Containerization and orchestration technologies expert
 ```
 
